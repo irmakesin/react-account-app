@@ -9,7 +9,11 @@ npm run dev
 # or
 yarn dev
 ```
-Secondly, run the command json-server --watch db.json --port 3004 for backend
+Secondly, run the this command for backend
+
+```bash
+json-server --watch db.json --port 3004
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
