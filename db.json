@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Villa Bosphorus",
+      "description": "Lorem ipsum dolor sit amet",
+      "star": 3.9,
+      "distance": 3.9,
+      "price": 125,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbVgIO6YSQ93acbnDnzsM_ATE2pGYXfJCjg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Villa 2",
+      "description": "Lorem ipsum dolor sit amet",
+      "star": 3.9,
+      "distance": 3.9,
+      "price": 125,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbVgIO6YSQ93acbnDnzsM_ATE2pGYXfJCjg&usqp=CAU"
+    }
+  ]
+}
